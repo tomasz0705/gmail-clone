@@ -14,7 +14,7 @@ function Header() {
                 <IconButton>
                     <MenuIcon />
                 </IconButton>
-                <img src="https://i.pinimg.com/originals/ae/47/fa/ae47fa9a8fd263aa364018517020552d.png" alt="gmail-image" />
+                <img src="https://i.pinimg.com/originals/ae/47/fa/ae47fa9a8fd263aa364018517020552d.png" alt="gmail" />
             </div>
 
             <div className="header__middle">
