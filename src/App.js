@@ -8,6 +8,8 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Mail from './Mail';
+import EmailList from './EmailList';
 
 function App() {
   return (
