@@ -30,7 +30,7 @@ function App() {
           </Switch>
         </div>
 
-        <SendMail />
+        {sendMessageIsOpen && <SendMail />}
       </div>
     </Router>
   );
