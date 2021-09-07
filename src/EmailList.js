@@ -91,6 +91,54 @@ function EmailList() {
                     description="This is DOPE"
                     time="10pm"
                 />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow gamer"
+                    description="This is DOPE"
+                    time="10pm"
+                />
             </div>
         </div>
     )
